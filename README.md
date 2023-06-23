@@ -15,7 +15,7 @@
 </p>
   
 <p>
-  O software utiliza banco de dados, possuindo função para login, cadastro, cálculo de IMC e cálculo de IAC. O projeto conteve várias versões até o resultado final, sendo produzido em um período de tempo curto e em equipe de alunos da disciplina.
+  O software utiliza banco de dados, possuindo função para login, cadastro, cálculo de IMC e cálculo de IAC. O projeto conteve várias versões até o resultado final, sendo produzido em um período de tempo curto e em equipe com alunos da disciplina.
   </p>
   
 <br>
