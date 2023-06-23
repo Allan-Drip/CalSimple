@@ -21,7 +21,7 @@
 <br>
 </br>
 
-  # <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Ferramentas Utilizadas:
+  # <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Ferramentas:
   
   * ## Netbeans
      ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
@@ -41,6 +41,22 @@
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>
+</br>
+
+ # <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Diagrama:
+
+ <img height = 450 width = 850 src= "https://github.com/DeniseFer/Figuras_POO/assets/124710256/29b8d677-079d-4d7f-81ad-fc9bdedc5033"/>
+
+ 
+
+ <br>
+</br>
+
+# <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Fluxograma:
+
+ <img height = 350 width = 870 src= "https://github.com/DeniseFer/Figuras_POO/assets/124710256/1422b847-c66b-4a0c-ab97-990b748a3af2"/>
+
+ <br>
 </br>
 
 # <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Equipe:
