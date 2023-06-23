@@ -28,7 +28,7 @@
   * ## Canva
     <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/214990a1-f590-4f9b-ade4-fb82f5eaaace" width="35">
   
-  * ## PostgreeSQ
+  * ## PostgreeSQL
      <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/124710256/4a2e15ef-3e49-4f6f-b47f-8da666f3fc9b" width="35">
 
 
